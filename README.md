@@ -17,7 +17,9 @@ Mantenedor dos seguintes grupos:
 
 * [Phing Brasil](https://www.facebook.com/groups/phingbrasil)
 
-## Ementa
+## Slides
+
+Você pode acompanhar o desenvolvimento dos slides utilizados no curso em https://docs.google.com/presentation/d/1vuMCO460kU7VIsnt_9nYccKQSmTgW7AgUEZnnqpDbbY/edit?usp=sharing
 
 ## **CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
 
