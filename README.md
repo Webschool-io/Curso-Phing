@@ -32,7 +32,7 @@ Em breve os slides serão liberados!
     - O que é o Phing ?
     - Onde posso usar o Phing ?
     - A documentação (projeto PT-BR e EN)
-    - Se envolva
+    - Se envolva e ajuda a comunidade a evoluir
     - Instalando e configurando o ambiente
     
 - Phing, entendendo o básico
@@ -47,15 +47,19 @@ Em breve os slides serão liberados!
     - Condicionais
     
 - CoreTasks
-    - Entendendo o que são CoreTasks
+    - O que são CoreTasks ?
+    - Entendendo o que são CoreTasks e suas possibilidades
     - Utilizando CoreTasks na prática
     
 - OptionalTasks
+    - O que são OptionalTasks ?
+    - CoreTasks X OptionalTasks
     - Entendendo o que são OptionalTasks
     - Utilizando OptionalTasks na prática
 
 - Modo avançado
     - Se familiarizando com o Phing
+    - Mudando a visão para automatizar
     - Cases reais de utilização do Phing
     - Como extender o Phing ?
     - Escrevendo uma tarefa customizada
