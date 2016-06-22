@@ -27,7 +27,7 @@ Em breve os slides serão liberados!
 
 ## Conteúdo do curso
 
-- Introdução
+- [Introdução](https://www.youtube.com/watch?v=QcgeW9j2eOw)
     - A história
     - O que é o Phing ?
     - Onde posso usar o Phing ?
