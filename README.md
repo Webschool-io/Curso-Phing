@@ -27,6 +27,8 @@ Em breve os slides serão liberados!
 
 ## Conteúdo do curso
 
+![Introdução](https://s31.postimg.org/3jqj4faln/phing.png])
+
 - [Introdução](https://www.youtube.com/watch?v=QcgeW9j2eOw)
     - A história
     - O que é o Phing ?
